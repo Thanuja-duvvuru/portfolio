@@ -1,5 +1,15 @@
-I’m Thanuja, an engineering student building my skills in programming and software development. This repository is my portfolio for documenting coursework, coding practice, and projects as I learn.
+# About Me
 
-- Learning Python.
-- Interested in software development and building useful applications.
-- Goal: build practical projects and grow as a software developer.
+I’m Thanuja, an engineering student. This repository is my portfolio for documenting coursework, coding practice, and projects as I learn.
+
+## Skills I’m Learning
+
+- Python
+
+## My Interests
+
+- Software development and building useful applications
+
+## My Goals
+
+- Build practical projects and grow as a software developer
