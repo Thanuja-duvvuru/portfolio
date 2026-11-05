@@ -8,6 +8,7 @@ I'm Thanuja, an engineering student. This repository is my portfolio for documen
 
 ## My Interests
 - Software development and building useful applications
+- Exploring new technologies
 
 ## My Goals
 - Build practical projects and grow as a software developer
