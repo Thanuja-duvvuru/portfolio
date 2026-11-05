@@ -13,3 +13,8 @@ I'm Thanuja, an engineering student. This repository is my portfolio for documen
 ## My Goals
 - Build practical projects and grow as a software developer
 - Improve my programming skills and build real-world applications
+
+## Projects
+
+- CommunityConnect: A platform for sharing and coordinating local community resources.
+- Portfolio Website: A personal website to showcase my skills, interests, and projects.
