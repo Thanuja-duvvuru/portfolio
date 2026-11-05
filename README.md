@@ -2,3 +2,4 @@ I’m Thanuja, an engineering student building my skills in programming and soft
 
 - Learning Python.
 - Interested in software development and building useful applications.
+- Goal: build practical projects and grow as a software developer.
