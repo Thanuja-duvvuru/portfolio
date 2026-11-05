@@ -1,3 +1,1 @@
-# Thanuja-duvvuru Portfolio
-
-Welcome to my engineering portfolio. This repository contains my coursework, programming exercises, and project work.
+I’m Thanuja, an engineering student building my skills in programming and software development. This repository is my portfolio for documenting coursework, coding practice, and projects as I learn.
