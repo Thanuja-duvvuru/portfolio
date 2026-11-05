@@ -4,6 +4,7 @@ I'm Thanuja, an engineering student. This repository is my portfolio for documen
 
 ## Skills I'm Learning
 - Python
+- Java
 
 ## My Interests
 - Software development and building useful applications
